@@ -1,4 +1,4 @@
-//Alexander Rollison 1001681800 @Alexander.rollison@mavs.uta.edu
+//Alexander Rollison
 #include <iostream> //cin,cout,etc.
 #include <vector> //vectors
 #include <string> //strings
