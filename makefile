@@ -1,6 +1,6 @@
-#Alexander Rollison 1001681800
+#Alexander Rollison
 #makefile for C++ Assignment 4
-SRC1 = Code4_1001681800.cpp
+SRC1 = Code4.cpp
 SRC2 = CokeMachine.cpp
 SRC3 = CokeLib.cpp
 OBJ1 = $(SRC1:.cpp=.o)
