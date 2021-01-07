@@ -1,4 +1,4 @@
-//Alexander Rollison 1001681800 @Alexander.rollison@mavs.uta.edu
+//Alexander Rollison
 #include <iostream>
 #include <vector>
 #include <string>
